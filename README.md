@@ -14,16 +14,18 @@
 ## Summary of steps followed to achieve goal.
 
 ### Step 1:
-##### Create a Record Data Class
+##### Created a Record Data Class
 
 ### Step 2:
-#### Modify the Existing Block Data Class to Store Record Data
+#### Modified the Existing Block Data Class to Store Record Data
 
 ### Step 3:
-#### Add Relevant User Inputs to the Streamlit Interface
+#### Added Relevant User Inputs to the Streamlit Interface
 
 ### Step 4:
-#### Test the PyChain Ledger by Storing Records
+#### Tested the PyChain Ledger by Storing Records
+
+## PYCHAIN LEDGER SCREENSHOTS 
 
 
 
