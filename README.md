@@ -28,6 +28,12 @@
 ## PYCHAIN LEDGER SCREENSHOTS 
 
 
-![storingblocks](https://user-images.githubusercontent.com/99139797/175756083-59b252ed-2332-4825-bec5-bc8c5b0fb014.png)
+![storingblocks](https://user-images.githubusercontent.com/99139797/175756157-741424ef-2d64-43f9-aeef-85ad2d27bbfe.png)
 
-![validation](https://user-images.githubusercontent.com/99139797/175756085-f5b70d51-8c01-45bc-bdff-fd248870f62c.png)
+
+
+
+
+
+
+![validation](https://user-images.githubusercontent.com/99139797/175756160-fb39d255-14ca-4198-8d1b-20f8cf54483c.png)
